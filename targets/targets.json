@@ -977,7 +977,7 @@
         "detect_code": ["0705"],
         "device_has_add": ["ANALOGOUT", "CAN",  "CRC", "SERIAL_ASYNCH", "SERIAL_FC"],
         "default_lib": "small",
-        "release_versions": ["2"],
+        "release_versions": ["2","5"],
         "device_name": "STM32F302R8"
     },
     "NUCLEO_F303K8": {
